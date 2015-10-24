@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>records</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<date>2015-10-24T04:36:35Z</date>
+			<key>name</key>
+			<string>Rest1</string>
+			<key>tips</key>
+			<integer>562</integer>
+		</dict>
+		<dict>
+			<key>date</key>
+			<date>2015-10-24T04:40:13Z</date>
+			<key>name</key>
+			<string>Rest2</string>
+			<key>tips</key>
+			<integer>142</integer>
+		</dict>
+		<dict>
+			<key>date</key>
+			<date>2015-10-24T04:40:13Z</date>
+			<key>name</key>
+			<string>Rest3</string>
+			<key>tips</key>
+			<integer>750</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
